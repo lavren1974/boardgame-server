@@ -1,0 +1,9 @@
+{"level":"warn","ts":"2023-07-27T17:40:27.867+0700","caller":"server/config.go:323","msg":"WARNING: insecure default parameter value, change this for production!","param":"console.username"}
+{"level":"warn","ts":"2023-07-27T17:40:27.868+0700","caller":"server/config.go:327","msg":"WARNING: insecure default parameter value, change this for production!","param":"console.password"}
+{"level":"warn","ts":"2023-07-27T17:40:27.868+0700","caller":"server/config.go:331","msg":"WARNING: insecure default parameter value, change this for production!","param":"console.signing_key"}
+{"level":"warn","ts":"2023-07-27T17:40:27.868+0700","caller":"server/config.go:335","msg":"WARNING: insecure default parameter value, change this for production!","param":"socket.server_key"}
+{"level":"warn","ts":"2023-07-27T17:40:27.869+0700","caller":"server/config.go:339","msg":"WARNING: insecure default parameter value, change this for production!","param":"session.encryption_key"}
+{"level":"warn","ts":"2023-07-27T17:40:27.869+0700","caller":"server/config.go:343","msg":"WARNING: insecure default parameter value, change this for production!","param":"session.refresh_encryption_key"}
+{"level":"warn","ts":"2023-07-27T17:40:27.869+0700","caller":"server/config.go:347","msg":"WARNING: insecure default parameter value, change this for production!","param":"runtime.http_key"}
+{"level":"warn","ts":"2023-07-27T17:40:27.999+0700","caller":"satori/satori.go:64","msg":"Satori configuration invalid: api_key_name not set, api_key not set, signing_key not set."}
+{"level":"warn","ts":"2023-07-27T17:40:28.001+0700","caller":"satori/satori.go:64","msg":"Satori configuration invalid: api_key_name not set, api_key not set, signing_key not set."}

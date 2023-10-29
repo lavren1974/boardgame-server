@@ -1,0 +1,25 @@
+{
+    "files": [
+        "./src/main.ts",
+        "./src/pokemon.ts",
+        "./src/games/ttt-stars/1-daily_rewards.ts",
+        "./src/games/ttt-stars/2-messages.ts",
+        "./src/games/ttt-stars/3-match_handler.ts",
+        "./src/games/ttt-stars/4-match_rpc.ts"
+        // "src/games/tictactoe/1-daily_rewards.ts",
+        // "src/games/tictactoe/2-messages.ts",
+        // "src/games/tictactoe/3-match_handler.ts",
+        // "src/games/tictactoe/4-match_rpc.ts"
+    ],
+    "compilerOptions": {
+        "target": "es5",
+        "typeRoots": [
+            "./node_modules"
+        ],
+        "outFile": "./build/index.js",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true
+    }
+}
