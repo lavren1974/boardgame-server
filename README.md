@@ -5,3 +5,5 @@
 
 
 boardgame-server
+
+test
