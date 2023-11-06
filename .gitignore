@@ -1,3 +1,4 @@
 /server/*.cookie
 /server/config/config.yml
 /server/logs/logfile.log
+/server/modules/tictactoe/node_modules

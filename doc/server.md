@@ -8,6 +8,18 @@
 go get
 go build
 
+
+
+Download the source tree.
+
+git clone "https://github.com/heroiclabs/nakama" nakama
+cd nakama
+
+Build the project from source.
+
+go build -trimpath -mod=vendor
+./nakama --version
+
 // тестовый запуск
 // сменить password на свой пароль к базе
 
